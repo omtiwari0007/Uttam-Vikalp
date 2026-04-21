@@ -1,0 +1,22 @@
+{
+  "name": "Uttam Vikalp AI",
+  "short_name": "Vikalp AI",
+  "description": "Faisla Leine Ka Uttam Vikalp - AI Assistant",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
